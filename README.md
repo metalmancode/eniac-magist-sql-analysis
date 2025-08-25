@@ -56,6 +56,13 @@ This project was designed to showcase **fundamental SQL knowledge**:
 
 ---
 
+## 🚀 Tools Used
+- **SQL (MySQL / PostgreSQL)** – querying and analysis  
+- **Tableau** – visualization of results  
+- **Google Slides** – presentation delivery  
+
+---
+
 ## 🔎 Business Questions & SQL Insights
 ### 1. Products
 - What categories of **tech products** exist in Magist’s database?  
